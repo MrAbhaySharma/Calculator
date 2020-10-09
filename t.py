@@ -7,3 +7,9 @@ if(choice=="add"):
 if(choice=="sub"):
     r = n1 - n2
     print("the diffrence is " + str(r))
+if(choice=="multi"):
+    e = n1 + n2 
+    print("the product is " + str(e))
+if(choice=="divide"):
+    y = n1 + n2
+    print("the quotient is " + str(y))
